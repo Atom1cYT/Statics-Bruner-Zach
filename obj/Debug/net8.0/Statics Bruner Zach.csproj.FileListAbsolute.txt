@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\bin\Debug\net8.0\Statics Bruner Zach.exe
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\bin\Debug\net8.0\Statics Bruner Zach.deps.json
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\bin\Debug\net8.0\Statics Bruner Zach.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\bin\Debug\net8.0\Statics Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\bin\Debug\net8.0\Statics Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\refint\Statics Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\Statics Bruner Zach.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\Statics Bruner Zach\obj\Debug\net8.0\ref\Statics Bruner Zach.dll
